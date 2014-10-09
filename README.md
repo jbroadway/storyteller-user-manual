@@ -1,4 +1,3 @@
-storyteller-user-manual
-=======================
+# Storyteller LMS - User Manual
 
-Storyteller LMS - User Manual
+Coming soon.
